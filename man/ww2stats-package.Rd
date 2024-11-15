@@ -8,6 +8,15 @@
 \description{
 Package is showing the casualties taken by participants in World War 2.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/Liberteegalitefraternite/ww2stats}
+  \item \url{https://liberteegalitefraternite.github.io/ww2stats/}
+  \item Report bugs at \url{https://github.com/Liberteegalitefraternite/ww2stats/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Leonardo Paez-Goto \email{leonardopaezgoto@gmail.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
